@@ -1,3 +1,7 @@
 mc_splitter/*.BLK 
-ascii_to_ebcdic/*.BLK 
+ascii_to_ebcdic/*.BLK
+mc_splitter/*.nb3
+ascii_to_ebcdic/*.nb3
+mc_splitter/ISO*
+ascii_to_ebcdic/ISO*
 
